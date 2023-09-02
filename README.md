@@ -13,8 +13,8 @@
 
 | 팀원   |  팀원구분 | 깃허브                                      | 블로그                                  |
 | ------ | -------- | ------------------------------------------- | --------------------------------- |
-| 조윤건 | `팀장`   |  |     |
-| 원유길 |  팀원     |  |                   |    
+| 조윤건 | `팀장`   |  |  https://github.com/yoongun97   |https://yoongeons.com/
+| 원유길 |  팀원     |  |       https://github.com/YugilWon             |     https://d161.tistory.com/
 | 이우정 |  팀원     | https://github.com/Passionhruit | https://passionfruit6.tistory.com/   |
 | 한희 |  팀원     |  |                             |
 | 황대성 |  팀원     | |        
